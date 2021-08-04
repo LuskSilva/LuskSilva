@@ -1,18 +1,11 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm LusK</h1>
-<h3 align="center">A WebDeveloper from Brazil</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LuskSilva" alt="LuskSilva" /> </p>
+<h3 align="center">Olá! Eu sou o Lucas Silva (LusK)</h3>
+<p align="center">Sou desenvolvedor Front-end e Web-Designer, aprendendo coisas novas todos os dias para sempre melhorar.<br><br></p>
 
-- 🔭 I’m currently working on **some of my side projects :P**
-
-- 👯 I’m looking to collaborate on **website design**
-
-- 👨‍💻 All of my projects are available at [https://github.com/LuskSilva](https://github.com/LuskSilva)
-
-- 💬 Ask me about **WebDesign and Front-End**
-
-- 🧠 I am currently learning **Front-End and Back-End**
-
-- ⚡ Fun fact **I love Web Design, Front-End and dogs 🐶**
-
-
-_Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
+<p align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</p>
