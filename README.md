@@ -1,11 +1,29 @@
-<h3 align="center">Olá! Eu sou o Lucas Silva (LusK)</h3>
-<p align="center">Sou desenvolvedor Front-end e Web-Designer, aprendendo coisas novas todos os dias para sempre melhorar.<br><br></p>
+<p align="left"> 
+  🌎 Olá, meu nome é Lucas Silva. Sou <strong>Desenvolvedor de Front-End</strong> e <strong>UI Designer</strong>.
+</p>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<p align="left">
+  🦄 Habilidades: <strong>HTML, CSS.</strong>
 </p>
-<p align="center">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+
+<p align="left">
+  💼 Ferramentas: <strong>VSCode, Figma, GitHub.</strong>
 </p>
+
+<p align="left">
+  💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
+</p>
+
+<p align="left">
+  <a href="" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link="/>
+  </a>
+  
+  <a href="" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link="/>
+  </a>
+  
+  <a href="https://discord.gg/8Cz7mhmjjF" alt="Discord">
+    <img src="https://img.shields.io/badge/-Discord-1C1C1C?style=for-the-badge&logo=Discord&logoColor=00FFFF&link=https://discord.gg/8Cz7mhmjjF"/>
+  </a>
+</p>  
